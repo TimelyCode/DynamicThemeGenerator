@@ -1,6 +1,6 @@
 
 # `DynamicThemeGenerator` - Dynamic Color Scheme for Jetpack Compose
----
+
 ## What is `DynamicThemeGenerator`?
 `DynamicThemeGenerator` is a utility class that helps you generate dynamic color schemes for your app’s UI using Jetpack Compose and Material 3. It uses the **HSL (Hue, Saturation, Lightness)** color model to generate colors, allowing for precise control over the colors' appearance in both light and dark modes.
 
